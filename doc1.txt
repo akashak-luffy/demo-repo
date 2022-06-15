@@ -1,1 +1,2 @@
 document1
+file was changed by other person
